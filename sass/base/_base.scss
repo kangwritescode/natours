@@ -1,0 +1,23 @@
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+$color-primary: #55c57a;
+$color-primary-light: #7ed56f;
+$color-primary-dark: #28b485;
+
+
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+
+    padding: 3rem;
+    box-sizing: border-box;
+} 
